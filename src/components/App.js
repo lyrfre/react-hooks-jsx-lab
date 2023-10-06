@@ -4,6 +4,9 @@ import Home from "./Home";
 import About from "./About";
 
 function App() {
+  console.log(NavBar)
+  console.log(Home)
+  console.log(About)
   return (
     <div>
       <NavBar />
